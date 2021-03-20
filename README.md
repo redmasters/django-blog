@@ -6,7 +6,8 @@ Blog Criado atráves do tutorial do DjangoGirls com deploy no Heroku [Link](http
 - Edição de post via blog
 
 . TODO:
-- Criação de users
+- Registro de novas contas
+- Criar Posts
 - Deletar posts
 - Login 
 - Registro
